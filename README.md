@@ -1,4 +1,4 @@
-This report analyzes workforce trends, salary patterns, and employee performance using HR data from 2018–2020 using Excel data cleaning and analytical techniques.
+This report analyzes workforce trends, salary patterns, and employee performance using Excel data cleaning and analytical techniques.
 
 ## Data Cleaning
 - Standardized data formats.
