@@ -1,0 +1,33 @@
+This report analyzes workforce trends, salary patterns, and employee performance using HR data from 2018–2020 using Excel data cleaning and analytical techniques.
+
+## Data Cleaning
+- Standardized data formats.
+- Converted text salaries to numeric.
+- Converted text dates to real dates. 
+- Missing values in age and salary were analyzed and left unchanged to preserve data integrity. Missing values were quantified using COUNTBLANK to access data completeness.
+
+## Workforce Overview
+	•	The organization experienced significant workforce expansion between 2018 and 2020.
+	•	Employee count grew steadily, indicating strong hiring activity during the period.
+	•	Despite workforce growth, average salary declined slightly by approximately 1% in 2020, which may indicate hiring of more entry level roles or cost management.
+
+## Salary Insights
+	•	Average salary across the workforce is approximately $60,216.
+	•	Salary levels vary by department, with Sales showing the highest average compensation.
+	•	IT and Finance departments display slightly lower average salaries compared with revenue generating roles.
+
+## Employee Performance Analysis
+	•	The overall average performance score is 3.02, indicating moderate performance levels across the organization.
+	•	Performance improved slightly in 2020 by approximately 3% compared with the previous year.
+	•	Most employees fall within mid level performance ratings, suggesting a stable but not highly differentiated performance distribution.
+
+## Workforce Demographics
+	•	The average employee age is 35.8 years, indicating a workforce dominated by midcareer professionals.
+	•	Age distribution suggests the majority of employees fall between 30 and 40 years old.
+	•	This demographic profile may reflect a workforce with moderate experience levels.
+
+## Key Takeaways
+	•	Workforce size expanded rapidly during the period analyzed.
+  •	Average salary declined slightly despite workforce growth.
+	•	Employee performance improved modestly over time.
+	•	The workforce is largely composed of mid career professionals with balanced performance distribution.
