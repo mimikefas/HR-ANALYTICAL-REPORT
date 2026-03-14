@@ -6,26 +6,25 @@ This project analyses human resource data to understand workforce growth, salary
 - Converted text dates to real dates. 
 - Missing values in age and salary were analyzed and left unchanged to preserve data integrity. Missing values were quantified using COUNTBLANK to access data completeness.
 
-## Businness Questions
+## Business Questions
     1.  How has workforce size changed between 2018 and 2020?
 The organization experienced significant workforce expansion between 2018 and 2020. The number of employees increased from 186 in 2018 to 385 in 2019 and further to 429 in 2020, indicating strong hiring activity during the period. However, the growth rate slowed slightly in 2020 compared with the sharp increase seen between 2018 and 2019.
 
 	2.	What is the trend in average employee salary over time?
 The workforce shows a clear growth trend over the three year period. While the organization expanded rapidly between 2018 and 2019, the increase between 2019 and 2020 was more moderate, suggesting the company may be transitioning from rapid expansion to a more stable workforce size.
 
-	3.	Which departments have the highest and lowest salaries?
 Average employee salary remained relatively stable over the period but declined slightly in 2020. The average salary decreased from approximately $60,787 in 2019 to about $60,167 in 2020, representing a small decline of roughly 1%. This may indicate the hiring of more entry level employees or efforts to manage compensation costs while expanding the workforce.
 
-	4.	How are employee performance ratings distributed?
+	3.	Which departments have the highest and lowest salaries?
 Salary levels vary across departments, with Sales showing the highest average salary levels compared with other departments. Other departments such as IT, Finance, and Marketing show slightly lower average salaries, reflecting differences in job roles, responsibilities, and revenue contribution across departments.
 
-	5.	Has employee performance improved or declined over time?
-Employee performance ratings are largely concentrated in the mid range categories, with most employees receiving B and F ratings. This suggests that the majority of employees perform at satisfactory or above average levels, while relatively few employees fall into the highest or lowest performance categories.
+	4.	How are employee performance ratings distributed?
+Employee performance ratings are primarily concentrated in the B and F categories, indicating a mixed performance distribution within the workforce. While a significant portion of employees perform at an above average level (B rating), there is also a noticeable number of employees with low performance ratings (F). This may suggest the need for stronger performance management and employee development initiatives.
 
-	6.	What is the age distribution of employees?
+	5.	Has employee performance improved or declined over time?
 Employee performance shows a slight improvement over time. The average performance score increased from approximately 2.98 in 2019 to 3.06 in 2020, representing an improvement of around 2%. This indicates a modest increase in overall employee productivity and effectiveness.
 
-	7.	How do workforce metrics differ across departments?
+	6.	What is the age distribution of employees?
 The workforce is largely composed of mid career professionals, with most employees falling within the 30 to 40 year age range. The average employee age is approximately 35.8 years, indicating a workforce with moderate professional experience.
 
 ## Workforce Overview
